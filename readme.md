@@ -1,1 +1,1 @@
-Aquí estarán los proyectos de los estudiantes de Edutecno. 
+Aquí estarán los proyectos que se realizaron en clases de los estudiantes de Edutecno. 
